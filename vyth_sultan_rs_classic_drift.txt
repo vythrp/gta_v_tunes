@@ -1,11 +1,11 @@
 vhmass 1100.0000
 vhacceleration 5.1000
 vhsuspensionforce 2.0000
-vhsuspensionraise 0.0185
-vhsuspensioncompdamp 0.3000
-vhtractionlossmult 0.1500
-vhupshift 2.1000
-vhdownshift 2.1000
+vhsuspensionraise 0.0250
+vhsuspensioncompdamp 0.3500
+vhtractionlossmult 0.0000
+vhupshift 4.9000
+vhdownshift 5.1000
 vhdeformationmult 0.5000
 vhtractioncurvemin 1.2250
 vhtractioncurvemax 1.2799
@@ -23,7 +23,7 @@ vhbrakeforce 0.9250
 vhbrakebiasfront 0.3400
 vhbrakebiasrear 1.6600
 vhhandbrakeforce 1.7000
-vhsteeringlock 1.3982
+vhsteeringlock 1.4482
 vhsteeringlockratio 0.0416
 vhtractioncurvelateral 1.5000
 vhcurvelateral 1.2000
@@ -47,7 +47,7 @@ vhrollcentreheightrear 0.2100
 vhcollisiondamagemult 1.0000
 vhweapondamamgemult 1.0000
 vhenginedamagemult 1.5000
-vhpetroltankvolume 50.0000
+vhpetroltankvolume 20.0000
 vhoilvolume 5.0000
 vhbackendpopupcarimpulsemult 0.0000
 vhbackendpopupbuildingimpulsemult 0.0000
