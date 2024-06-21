@@ -1,7 +1,7 @@
-vhmass 1350.0000
+vhmass 1745.0000
 vhacceleration 4.7000
 vhsuspensionforce 3.1000
-vhsuspensionraise 0.0200
+vhsuspensionraise -0.0300
 vhsuspensioncompdamp 0.1750
 vhtractionlossmult 0.0000
 vhupshift 7.1000
@@ -42,8 +42,8 @@ vhsuspensionbiasrear 0.9600
 vhantirollbarforce 0.0000
 vhantirollbarbiasfront 1.6000
 vhantirollbarbiasrear 0.3999
-vhrollcentreheightfront 0.1300
-vhrollcentreheightrear 0.1200
+vhrollcentreheightfront 0.2100
+vhrollcentreheightrear 0.2100
 vhcollisiondamagemult 0.7000
 vhweapondamamgemult 1.0000
 vhenginedamagemult 1.5000
@@ -54,8 +54,8 @@ vhbackendpopupbuildingimpulsemult 0.0000
 vhbackendpopupmaxdeltaspeed 0.0000
 vhtoefront 0.0000
 vhtoerear 0.0000
-vhcamberfront -0.1000
-vhcamberrear -0.1000
+vhcamberfront -0.0250
+vhcamberrear -0.0250
 vhcastor 0.0000
 vhengineresistance 0.0000
 vhmaxdrivebiastransfer -1.0000
