@@ -4,8 +4,8 @@ vhsuspensionforce 3.1000
 vhsuspensionraise 0.0000
 vhsuspensioncompdamp 0.1750
 vhtractionlossmult 0.0250
-vhupshift 1.5000
-vhdownshift 1.5000
+vhupshift 10.5000
+vhdownshift 10.5000
 vhdeformationmult 0.5000
 vhtractioncurvemin 1.2250
 vhtractioncurvemax 1.2799
@@ -13,8 +13,8 @@ vhdownforcemodifier 10.0000
 vhinitialdragcoeff 0.0006
 vhpopuplightrotation 0.0000
 vhbuoyancy 85.0000
-vhdrivebiasrear 1.7000
-vhdrivebiasfront 0.3000
+vhdrivebiasrear 1.5000
+vhdrivebiasfront 0.5000
 vhdriveinertia 1.0000
 vhinitialdriveforce 1.0000
 vhdrivemaxflatvelocity 55.0000
